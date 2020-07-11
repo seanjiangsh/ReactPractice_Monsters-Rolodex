@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ReactPractice_Monsters-Rolodex/static/css/main.d899574b.chunk.css",
+    "main.css": "/ReactPractice_Monsters-Rolodex/static/css/main.aef9c324.chunk.css",
     "main.js": "/ReactPractice_Monsters-Rolodex/static/js/main.ecb1c5f5.chunk.js",
     "main.js.map": "/ReactPractice_Monsters-Rolodex/static/js/main.ecb1c5f5.chunk.js.map",
     "runtime-main.js": "/ReactPractice_Monsters-Rolodex/static/js/runtime-main.714dad5f.js",
@@ -8,15 +8,15 @@
     "static/js/2.b4309f00.chunk.js": "/ReactPractice_Monsters-Rolodex/static/js/2.b4309f00.chunk.js",
     "static/js/2.b4309f00.chunk.js.map": "/ReactPractice_Monsters-Rolodex/static/js/2.b4309f00.chunk.js.map",
     "index.html": "/ReactPractice_Monsters-Rolodex/index.html",
-    "precache-manifest.e1551d33aea0928c122b225f55c4b7e1.js": "/ReactPractice_Monsters-Rolodex/precache-manifest.e1551d33aea0928c122b225f55c4b7e1.js",
+    "precache-manifest.fee4d8ded997bb61bb31bc7668ce1fde.js": "/ReactPractice_Monsters-Rolodex/precache-manifest.fee4d8ded997bb61bb31bc7668ce1fde.js",
     "service-worker.js": "/ReactPractice_Monsters-Rolodex/service-worker.js",
-    "static/css/main.d899574b.chunk.css.map": "/ReactPractice_Monsters-Rolodex/static/css/main.d899574b.chunk.css.map",
+    "static/css/main.aef9c324.chunk.css.map": "/ReactPractice_Monsters-Rolodex/static/css/main.aef9c324.chunk.css.map",
     "static/js/2.b4309f00.chunk.js.LICENSE.txt": "/ReactPractice_Monsters-Rolodex/static/js/2.b4309f00.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.714dad5f.js",
     "static/js/2.b4309f00.chunk.js",
-    "static/css/main.d899574b.chunk.css",
+    "static/css/main.aef9c324.chunk.css",
     "static/js/main.ecb1c5f5.chunk.js"
   ]
 }
